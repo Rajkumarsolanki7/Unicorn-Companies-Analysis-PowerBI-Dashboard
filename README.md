@@ -1,8 +1,3 @@
-# Unicorn-Companies-Analysis-PowerBI-Dashboard
-Here's a **README** for your "Unicorn Companies Analysis" project, formatted for GitHub:
-
----
-
 # Unicorn Companies Analysis
 
 This project provides an in-depth analysis of unicorn companies—private startups valued at over $1 billion. Using **Power BI**, this analysis explores key metrics, including the highest valuations, funding amounts, industry distribution, and geographic concentration, to offer insights into current trends and investment patterns in the unicorn ecosystem.
@@ -56,8 +51,8 @@ The analysis reveals that **Fintech** and **E-commerce** dominate the unicorn la
 
 ## 📧 Contact
 
-For any questions or feedback, please reach out to [Your Name](mailto:youremail@example.com).
+For any questions or feedback, please reach out to rajkumarsinghsolanki525@gmail.com
 
 ---
 
-Feel free to replace placeholders like `yourusername` and `youremail@example.com` with your actual GitHub username and email address.
+Feel free to replace placeholders like `Rajkumar solanki` and `rajkumarsinghsolanki525@gmail.com` with your actual GitHub username and email address.
